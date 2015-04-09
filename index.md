@@ -13,6 +13,10 @@ I'm currently a Security Researcher at <a href="https://www.sec.in.tum.de">TU Mu
 My research interest include a broad range of topics related to computer security, including intrusion detection, operating system design, virtualization, live and forensics memory analysis, rootkits, as well as static and dynamic malware analysis. My area of expertise is around a technology called Virtual Machine Introspection.
 </p>
 
+<p>
+PGP Key fingerprint: C858 38A9 99FB FA05 E1CC  6006 31CE B68F BF5A F5CD. You can find my PGP public key <a href="https://pgp.mit.edu/pks/lookup?search=tamas%40tklengyel.com&op=index&fingerprint=on&exact=on">here</a>.
+</p>
+
 <h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ElggombHA8E?rel=0" frameborder="0" allowfullscreen></iframe>
 </h3>
