@@ -6,7 +6,7 @@ image:
 ---
 
 <p align="justify">
-I'm currently working as Senior Security Researcher at <a href="https://www.novetta.com">Novetta</a>, focusing on malware analysis using hardware virtualization. I'm also a PhD candidate at the <a href="http://cse.uconn.edu">University of Connecticut</a> where I'm in the process of finishing my dissertation on malware collection and analysis via hardware virtualization. I'm also an open-source developer, contributing to projects such as <a href="http://libvmi.com">LibVMI</a> and the <a href="http://xenproject.org">Xen Project Hypervisor</a>. I'm also working with <a href="http://zentific.com">Zentific LLC</a>, with whom I have participated in a <a href="http://www.darpa.mil/opencatalog/CFT.html">DARPA Cyber Fast Track</a> project.
+I'm currently working as Senior Security Researcher at <a href="https://www.novetta.com">Novetta</a>, focusing on malware analysis using hardware virtualization through the <a href="http://drakvuf.com">DRAKVUF</a> Malware Analysis System I've built for my PhD at the <a href="http://www.cse.uconn.edu">University of Connecticut</a>. I'm an avid open-source developer, contributing to projects such as <a href="http://libvmi.com">LibVMI</a> and the <a href="http://xenproject.org">Xen Project Hypervisor</a>. I'm also working with <a href="http://zentific.com">Zentific LLC</a>, with whom I have participated in a <a href="http://www.darpa.mil/opencatalog/CFT.html">DARPA Cyber Fast Track</a> project.
 </p>
 
 <p align="justify">
