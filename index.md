@@ -6,7 +6,7 @@ image:
 ---
 
 <p align="justify">
-I'm currently volunteering as a Google Summer of Code mentor through the <a href="http://honeynet.org">Honeynet Project</a>, focusing on malware analysis using hardware virtualization through the <a href="http://drakvuf.com">DRAKVUF</a> Malware Analysis System. I've recently completed my Ph.D. at the <a href="http://www.cse.uconn.edu">University of Connecticut</a>. I'm an avid open-source developer, contributing to projects such as <a href="http://libvmi.com">LibVMI</a> and the <a href="http://xenproject.org">Xen Project Hypervisor</a>. I'm also working with <a href="http://zentific.com">Zentific LLC</a>, with whom I have participated in a <a href="http://www.darpa.mil/opencatalog/CFT.html">DARPA Cyber Fast Track</a> project.
+I'm Co-Founder of <a href="https://www.zentific.com">Zentific</a> where we are developing virtualization-based security solutions. I've recently completed my Ph.D. at the <a href="http://www.cse.uconn.edu">University of Connecticut</a>. I'm an avid open-source developer, contributing to projects such as <a href="http://libvmi.com">LibVMI</a> and the <a href="http://xenproject.org">Xen Project Hypervisor</a>.
 </p>
 
 <p align="justify">
