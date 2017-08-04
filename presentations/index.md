@@ -18,7 +18,10 @@ image:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SU63NGMQ5wU?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <hr>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ElggombHA8E?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q96a7GJFg9E?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<hr>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GW_COYR-Z40?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <hr>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EZPXy314q3E?rel=0" frameborder="0" allowfullscreen></iframe>
