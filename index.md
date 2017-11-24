@@ -6,7 +6,7 @@ image:
 ---
 
 <p align="justify">
-I'm Co-Founder of <a href="https://www.zentific.com">Zentific</a> where we are developing virtualization-based security solutions. I've recently completed my Ph.D. at the <a href="http://www.cse.uconn.edu">University of Connecticut</a>. I'm an avid open-source developer, contributing to projects such as <a href="http://libvmi.com">LibVMI</a> and the <a href="http://xenproject.org">Xen Project Hypervisor</a>.
+I'm currently working as Advising Computer Engineer at <a href="https://www.ainfosec.com">Assured Information Security</a>, focusing on low-level security systems and open-source projects like <a href="http://">OpenXT</a>. I'm also Co-Founder of <a href="https://www.zentific.com">Zentific</a> which focuses on developing virtualization-based security solutions. I've completed my Ph.D. at the <a href="http://www.cse.uconn.edu">University of Connecticut</a>. I'm an avid open-source developer, contributing to projects such as <a href="http://libvmi.com">LibVMI</a> and the <a href="http://xenproject.org">Xen Project Hypervisor</a>.
 </p>
 
 <p align="justify">
