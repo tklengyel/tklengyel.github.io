@@ -16,7 +16,3 @@ My research interest include a broad range of topics related to computer securit
 <p>
 PGP Key fingerprint: C858 38A9 99FB FA05 E1CC  6006 31CE B68F BF5A F5CD. You can find my PGP public key <a href="https://pgp.mit.edu/pks/lookup?search=tamas%40tklengyel.com&op=index&fingerprint=on&exact=on">here</a>.
 </p>
-
-<h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/86EvJK2Ef_U" frameborder="0" allowfullscreen></iframe>
-</h3>
