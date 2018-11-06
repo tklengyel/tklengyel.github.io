@@ -5,6 +5,10 @@ tags: [publications]
 image:
   feature: sample-image-1.jpg
 ---
+* S Proskurin, TK Lengyel, M Momeu, C Eckert, A Zarras. Hiding in the Shadows: Empowering ARM for Stealthy Virtual Machine Introspection. ACSAC 2018
+
+* T Tuzel, M Bridgman, J Zepf, TK Lengyel, KJ Temkin. Who Watches The Watcher? Detecting Hypervisor Introspection from Unprivileged Guests. DFRWS USA 2018
+
 * GD Webster, ZD Hanif, ALP Ludwig, TK Lengyel, A Zarras, C Eckert. SKALD: a scalable architecture for feature extraction, multi-user analysis, and real-time information sharing. International Conference on Information Security, 2016
 
 * B Kolosnjaji, A Zarras, TK Lengyel, G Webster, C Eckert. Adaptive Semantics-Aware Malware Classification. In 13th Conference on Detection of Intrusions and Malware & Vulnerability Assessment, 2016.
