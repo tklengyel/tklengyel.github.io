@@ -6,6 +6,9 @@ image:
   feature: sample-image-1.jpg
 ---
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRGeGsOTKpgIcI3d7J1Hz6lFDfLc6zZT2KSbVyePLeA-qbcITjF5OjtkQhu1JnvsEOln106gTelP9zr/embed?start=false&loop=false&delayms=30000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<hr>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3NUpkTDfPLo?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <hr>
