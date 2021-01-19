@@ -6,6 +6,10 @@ image:
   feature: sample-image-1.jpg
 ---
 
+<hr>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/1hVJh1f1JxZSzW" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/tklengyel/pitfalls-and-limits-of-dynamic-malware-analysis" title="Pitfalls and limits of dynamic malware analysis" target="_blank">Pitfalls and limits of dynamic malware analysis</a> </strong> from <strong><a href="https://www.slideshare.net/tklengyel" target="_blank">Tamas K Lengyel</a></strong> </div>
+
+<hr>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRGeGsOTKpgIcI3d7J1Hz6lFDfLc6zZT2KSbVyePLeA-qbcITjF5OjtkQhu1JnvsEOln106gTelP9zr/embed?start=false&loop=false&delayms=30000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <hr>
